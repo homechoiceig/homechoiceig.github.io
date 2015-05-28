@@ -8,11 +8,16 @@
 }
 
 body{
-	font-size: small;
+    font-size: medium;
+	background-color: #fafafa;
 }
 
 footer{
     margin: 5%;
+}
+
+a{
+    font-weight: bold;
 }
 
 .abouttext{
@@ -25,7 +30,6 @@ footer{
 
 .navbar-default {
 	padding: 1%;
-    background-color: #FFF;
     border: 0px solid;
     opacity: .7;
 }
