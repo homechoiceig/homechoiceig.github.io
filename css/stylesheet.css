@@ -1,7 +1,7 @@
 @media (min-width: 768px){
     .navbar-nav{
-        float:none;
-        margin: 0 auto;
+        float: right;
+        margin-right: 0 auto;
         display: table;
         table-layout: fixed;
     }
@@ -31,7 +31,6 @@ a{
 .navbar-default {
 	padding: 1%;
     border: 0px solid;
-    opacity: .7;
 }
 
 .navbar-default .navbar-nav > li > a {
