@@ -9,7 +9,7 @@
 
 body{
     font-size: medium;
-	background-color: #fafafa;
+	background-color: #fff;
 }
 
 footer{
@@ -29,6 +29,7 @@ a{
 }
 
 .navbar-default {
+    background-color: #fff;
     padding: 1% 18% 0 15%;
     border: 0px solid;
     margin: 2% 8% 1% 8%;
